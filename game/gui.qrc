@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>gui/framewater.jpg</file>
+        <file>gui/button/bubble11.png</file>
+        <file>gui/button/bubble12.png</file>
+        <file>gui/button/bubble13.png</file>
+        <file>gui/button/bubble14.png</file>
+        <file>gui/button/bubble15.png</file>
+        <file>gui/cursorLeft.png</file>
+        <file>gui/cursorRight.png</file>
+    </qresource>
+</RCC>
